@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  font-size: 100px;
+}
+.form {
+  display: none;
+}
+.greetings {
+  display: none;
+}
+.showing {
+  display: none;
+}
